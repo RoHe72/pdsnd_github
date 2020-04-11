@@ -1,5 +1,6 @@
 ### Date created
-11.04.2020
+Project created on 11/04/2020 README file last updated on 11/04/2020
+
 
 ### Project Title
 Bikeshare Project
@@ -23,4 +24,5 @@ You can run the script using a Python integrated development environment (IDE). 
 -bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Thanks to the Udacity team for this great project!
+
