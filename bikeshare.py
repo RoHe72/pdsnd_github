@@ -246,6 +246,7 @@ def show_rawdata(df):
 
 
 def main():
+    print('\n*** Bikeshare project ***')
     while True:
         city, month, day = get_filters()
         df = load_data(city, month, day)
